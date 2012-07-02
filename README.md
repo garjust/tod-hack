@@ -1,5 +1,5 @@
-Tales of Dragons Hack Project
+TOD Hack Project
 
-Weekend hack intended to be forked afterwards
+Weekend hack
 
 Title pending
